@@ -1,0 +1,18 @@
+    ----    KS3P loading report    ----
+[Log]: Running MonoBehaviour.Awake()!
+[Log]: Loading asset bundle at path C:/Program Files (x86)/Kerbal Space Program v1.12.3.03173r2/GameData\KS3P\Shaders\postprocessingshaders-windows.unity3d
+[Log]: Adding shader [Hidden/Post FX/Ambient Occlusion].
+[Log]: Adding shader [Hidden/Post FX/Blit].
+[Log]: Adding shader [Hidden/Post FX/Bloom].
+[Log]: Adding shader [Hidden/Post FX/Builtin Debug Views].
+[Log]: Adding shader [Hidden/Post FX/Depth Of Field].
+[Log]: Adding shader [Hidden/Post FX/Eye Adaptation].
+[Log]: Adding shader [Hidden/Post FX/Fog].
+[Log]: Adding shader [Hidden/Post FX/FXAA].
+[Log]: Adding shader [Hidden/Post FX/Grain Generator].
+[Log]: Adding shader [Hidden/Post FX/Lut Generator].
+[Log]: Adding shader [Hidden/Post FX/Motion Blur].
+[Log]: Adding shader [Hidden/Post FX/Screen Space Reflection].
+[Log]: Adding shader [Hidden/Post FX/Temporal Anti-aliasing].
+[Log]: Adding shader [Hidden/Post FX/Uber Shader].
+[Log]: Adding compute shader [EyeHistogram].
